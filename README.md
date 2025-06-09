@@ -4,7 +4,7 @@ A simple interactive piano built using **HTML**, **CSS**, and **JavaScript**. Th
 
 ## Demo Link
 
-https://maheshkn30.github.io/Play-Piano/
+https://maheshkn30.github.io/Play-Piano
 
 ## Features
 
